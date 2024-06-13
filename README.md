@@ -33,7 +33,7 @@ Thank you for taking an interest in Nexus. We hope it inspires you as much as it
 
 To install Nexus, I reccommend using the installer. Download the Nexus installer from <a href="https://github.com/hawk-Codes/Nexus-Lang/releases/tag/v0.1-Installer">here</a>.
 
-After that, add the installation directory to PATH. The default installation directory is C:\Program Files (x86)\Nexus\nexus
+After that, add the installation directory to PATH. The default installation directory is C:\Program Files (x86)\Nexus
 
 To add your installation directory to PATH, follow these steps:
 
@@ -45,3 +45,24 @@ To add your installation directory to PATH, follow these steps:
 - Click on Edit.
 - Click on new.
 - Add the installation directory and exit by clicking "OK."
+
+## Usage
+
+After adding the installation directory for Nexus to PATH, open command prompt or any other shell.
+
+Enter a command saying "nx".
+
+Nexus will launch.
+
+## Additional Information
+
+To run a file in which your Nexus code exists, type "run C:/path/to/your/file.nx" inside the Nexus interpeter.
+
+To change the command that launches Nexus, edit the name of the batch file (nx.bat) to the command you want to launch Nexus from. Example:
+
+- Let's say I want to change the command so that Nexus launches from the command ":nexus".
+- Open the installation directory.
+- Click on the file "nx.bat".
+- Press F2 on your keyboard.
+- Rename the file to ":nexus".
+- Now whenever I type ":nexus" in the shell, it will launch Nexus.
