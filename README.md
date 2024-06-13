@@ -1,5 +1,7 @@
 # Nexus: A Creative Journey in Programming
 
+Nexus-Logo.png
+
 ## Introduction
 
 Nexus is not just another programming language; it's a testament to the boundless creativity and innovation that can emerge from young minds. Developed by a 13-year-old, Nexus stands out
