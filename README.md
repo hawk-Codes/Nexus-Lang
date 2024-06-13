@@ -1,6 +1,6 @@
 # Nexus: A Creative Journey in Programming
 
-Nexus-Logo.png
+![image](https://github.com/hawk-Codes/Nexus-Lang/assets/92421892/4d6d23a3-5959-4e4b-9827-045982a0fad3)
 
 ## Introduction
 
