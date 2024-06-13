@@ -1,0 +1,41 @@
+#This is the syntax for Nexus Lang
+
+module file
+#Imports another Nexus file
+
+say("Hello, World!")
+#Simple print command
+
+let var_name be "Nexus is my favourite programming language!"
+#Creates a variable
+#To specify variable type, let var_name be int(5)/str("hi")
+
+ask("What do you think of Nexus? ")
+#Asks user for input
+
+if q == "Nexus is the best." then say("I agree.")
+else say("I don't agree.")
+#Conditional logic, if-else. You can use 'if' twice instead of 'elif' because there is no elif command.
+
+while i > 5 do:
+  say("I love Nexus.")
+while.end
+#While loop
+#If you will type multiple commands inside, end each line by a semicolon (;).
+
+for i in range 5:
+  say("Iteration: " + i)
+for.end
+#For loop
+#If you will type multiple commands inside, end each line by a semicolon (;).
+
+fn main(x, y):
+  say(x+y)
+fn.end
+#Defining a function
+#Define parameters inside brackets.
+#If you will type multiple commands inside, end each line by a semicolon (;)
+
+call main(5, 10)
+#Calling a function
+#Define value of parameters inside brackets
