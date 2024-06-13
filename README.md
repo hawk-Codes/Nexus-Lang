@@ -28,3 +28,20 @@ We welcome contributions from anyone interested in making Nexus better. Whether 
 Nexus is open-source software released under the MIT License. This means you can use, modify, and distribute the software freely, subject to the terms of the license.
 
 Thank you for taking an interest in Nexus. We hope it inspires you as much as it did its creator!
+
+## Installation
+
+To install Nexus, I reccommend using the installer. Download the Nexus installer from <a href="https://github.com/hawk-Codes/Nexus-Lang/releases/tag/v0.1-Installer">here</a>.
+
+After that, add the installation directory to PATH. The default installation directory is C:\Program Files (x86)\Nexus\nexus
+
+To add your installation directory to PATH, follow these steps:
+
+- Open windows search.
+- Search "Edit System Environment Variables"
+- Open the app.
+- Click on "Environment Variables"
+- You will see two boxes. In the box that says "System Variables" click on "Path".
+- Click on Edit.
+- Click on new.
+- Add the installation directory and exit by clicking "OK."
