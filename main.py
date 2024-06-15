@@ -213,7 +213,7 @@ def main():
                     if line.startswith("fn ") and ":" in line and "fn.end" not in line:
                         function_definition = line
                         i += 1
-                        while i < len(file_commands) and "}" not in file_commands[i]:
+                        while i < len(file_commands) and "fn.end" not in file_commands[i]:
                             function_definition += " " + file_commands[i].strip()
                             i += 1
                         if i < len(file_commands):
